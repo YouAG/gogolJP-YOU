@@ -1,4 +1,7 @@
+body{
 
+	margin: 0;
+}
 
 .ul1
 { 
@@ -104,7 +107,7 @@ li
 
 
 #footerprincipal{
-margin-top: 159px;
+margin-top: 8%;
     background-color: #e4e4e4;
     width: auto;
 }
