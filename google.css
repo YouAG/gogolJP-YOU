@@ -1,33 +1,50 @@
 
 
-ul{ 
+ul
+{ 
 	list-style-type: none;
     display: flex; 
 	justify-content: flex-end;
 	align-items: center; 
 }
 
+
+#ul2
+{
+list-style-type: none;
+    display: flex; 
+	justify-content:;
+	 ;
+}
+
+
 .li1{padding-left: 15px;}
 
 li:hover{ 
-	color: grey;
+	color: darkgrey
+;
 	text-decoration: underline;
 
 }
 
-
-
 #logo
 {
-	display: flex;
-align-items: center;
-justify-content: center;
+
+width: 300px;
+
+}
+
+.conteneurlogo
+{
+	width: 22%;
+	margin: auto;
+	margin-top: 224px;
+
 }
 
 #rech
 {
 display: flex;
-align-items: center;
 justify-content: center;
 
 }
