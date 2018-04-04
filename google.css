@@ -64,16 +64,13 @@ justify-content: center;
 }
 
 
-
 #conteneurpiedpage{
 	display: flex;
 	background-color:#e2E2E2;
 	justify-content:space-between
-
 }
 
 .li2{padding-left: 15px;}
-
 
 
 .foot1{
@@ -81,7 +78,6 @@ justify-content: center;
     padding-top:1px;
     padding-left: 30px; 
 }
-
 
 .ulcotegauche{
 	font-family: arial,sans-serif;
@@ -106,8 +102,7 @@ li
 #footerprincipal{
 margin-top: 159px;
     background-color: #e4e4e4;
-    width: auto;
-}
+    width: auto;}
 
 
 
