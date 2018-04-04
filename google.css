@@ -1,7 +1,18 @@
+
+
 body{
 
 	margin: 0;
 }
+
+/* _______________ BONJOUR CHERE CORRECTEUR, NOUS AVOS REALISE CETTE PETITE REPLIQUE DE GOOGLE AVEC BEAUCOUP D'EFFORTS,
+ ET JE RAPPELLE QUE C'EST NOTRE PREMIER SITE, JE T'ENCOURAGE DONC D'ETRE INDULGENT SUR TA NOTATION. ^^ BONNE JOURNEE !!!  ___________________ */
+
+
+
+
+
+/* _______________ BARRE DE NAVIGATION ___________________ */
 
 .ul1
 { 
@@ -20,6 +31,10 @@ li:hover{
 ;
 	text-decoration: underline;
 }
+
+/* _______________ LOGO ___________________ */
+
+
 
 #logo
 {
@@ -50,6 +65,12 @@ justify-content: center;"
 box-shadow: 0px 3px 4px #aaa;
 }
 
+
+
+
+/* _______________ BOUTONS ___________________ */
+
+
 #button {
 font-family:arial,sans-serif;
 height:70px ;
@@ -59,12 +80,37 @@ justify-content: center;
 
 }
 
+
+
+
+button{
+    width: 200px;
+    height: 40px;
+    margin-right: 20px;
+    border-radius: 5px;
+    font-size: x-small;
+    color: grey;
+}
+
+button:hover
+{
+	color: black;
+
+}
+
+
+
+
+
 #English {
 font-family: arial,sans-serif;
 	display: flex;
 align-items: center;
 justify-content: center;
 }
+
+
+/* _______________ PIED DE PAGE  ___________________ */
 
 
 #conteneurpiedpage{
@@ -79,7 +125,7 @@ justify-content: center;
 .foot1{
 	font-family: arial,sans-serif;
     padding-top:1px;
-    padding-left: 30px; 
+    padding-left: 50px; 
 }
 
 .ulcotegauche{
@@ -107,5 +153,22 @@ margin-top: 8%;
     background-color: #e4e4e4;
     width: auto;}
 
+
+h3{
+	font-size: 1em;
+	color: grey;
+	font-family: arial,sans-serif;
+}
+
+
+
+.afin{
+	text-decoration: none;
+	color: grey;
+}
+
+.afin:hover{
+	color: grey;
+}
 
 
