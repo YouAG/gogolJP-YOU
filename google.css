@@ -1,0 +1,49 @@
+
+
+ul{ 
+	list-style-type: none;
+    display: flex; 
+	justify-content: flex-end;
+	align-items: center; 
+}
+
+.li1{padding-left: 15px;}
+
+li:hover{ 
+	color: grey;
+	text-decoration: underline;
+
+}
+
+
+
+#logo
+{
+	display: flex;
+align-items: center;
+justify-content: center;
+}
+
+#rech
+{
+display: flex;
+align-items: center;
+justify-content: center;
+
+}
+
+#button {
+
+display: flex;
+align-items: center;
+justify-content: center;
+
+}
+
+#English {
+
+
+	display: flex;
+align-items: center;
+justify-content: center;
+}
